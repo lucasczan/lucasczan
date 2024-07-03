@@ -2,7 +2,7 @@
 
 Passionate about technology and programming, pursuing a career as a full-stack Software Engineer with a strong emphasis on frontend.<br/><br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascsoares/) <br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasczan&show_icons=true&theme=dark)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasczan&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&card_width=468)
 
 
