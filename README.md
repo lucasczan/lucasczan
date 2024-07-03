@@ -24,6 +24,8 @@
   <h3>Cloud</h3>
     <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
+<br/>
+Passionate about technology and programming, pursuing a career as a full-stack developer with a strong emphasis on frontend.
 <!--
 **lucasczan/lucasczan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
