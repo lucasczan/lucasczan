@@ -1,7 +1,9 @@
 ## Hi there I'm Lucas Soares ✌️
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascsoares/) <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasczan&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&card_width=468)
+
+Passionate about technology and programming, pursuing a career as a full-stack developer with a strong emphasis on frontend.<br/><br/>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascsoares/) <br/><br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasczan&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&card_width=468)
 
 
 ## Technologies I Use in My Daily Life
@@ -26,8 +28,7 @@
   <h3>Cloud</h3>
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
-<br/>
-Passionate about technology and programming, pursuing a career as a full-stack developer with a strong emphasis on frontend.
+
 <!--
 **lucasczan/lucasczan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
