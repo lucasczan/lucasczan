@@ -25,7 +25,8 @@ Passionate about technology and programming, pursuing a career as a full-stack S
   <img align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 
   <h3>Cloud</h3>
-  <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img align="center" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80"/>
+    <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
 
 <!--
